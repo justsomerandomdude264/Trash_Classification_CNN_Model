@@ -20,7 +20,7 @@ In total, there are 9 categories into which the trash items are classified.
 
 For more details about the CNN architecture used in this project, you can refer to the [CNN Explainer](https://poloclub.github.io/cnn-explainer/) website.
 
-### Usage
+### Info
 
 Only 30% of the data from the Real Trash Dataset has been used and divided into an 80%-20% split of Train and Test.
 
