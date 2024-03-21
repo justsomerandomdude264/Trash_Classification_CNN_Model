@@ -52,6 +52,8 @@ Additionally, the repository contains 2 folders:
 
 - **models**: This stores the model saved by utils.py.
 
+- **samples**: This has 10 pictures, you can use for testing the model using `predict.py`.
+
 
 ### What I Learned?
 
