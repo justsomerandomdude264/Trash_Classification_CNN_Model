@@ -62,10 +62,3 @@ This project taught me the basics of **Computer Vision** with **PyTorch**, a lot
 I gained understanding about **classification** and how to implement it with **neural networks** and **deep learning**. While working on this, I learned the basics of **matplotlib** and **mlxtend** and also realized the impact of **data quantity** on results, which led to the decision of using only **30% of the data**.
 
 I found that the best working **optimizer** with **TinyVGG** was an **Adam Optimizer** with a **learning rate** of **0.001**, trained on **20 epochs** and a **batch size** of **32** with **15** **hidden units**. This resulting in **Train Loss** of _**0.24**_ and **Test Loss** of _**2.17**_, **Train Accuracy** of _**91%**_ and **Test Accuracy** of _**55%**_.   
-
-
-### Citation
-
-If ever you use this model or dataset in your research or project, please cite the following:
-
-S. Single, S. Iranmanesh, R. Raad, RealWaste, electronic dataset, The UCI Machine Learning Repository, Wollongong City Council, CC BY 4.0
